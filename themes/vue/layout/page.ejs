@@ -8,9 +8,9 @@
   </div>
 <% } %>
 <div class="content <%- page.type ? page.type + ' with-sidebar' : '' %> <%- page.type === 'guide' ? page.path.replace(/.+\//, '').replace('.html', '') + '-guide' : '' %>">
-  <p class="tip warning v3-warning">
+  <!-- <p class="tip warning v3-warning">
     您在浏览的是 v2.x 及更早版本的文档。v3.x 的文档<a href="https://v3.cn.vuejs.org/">在这里</a>。
-  </p>
+  </p> -->
 
   <% if (page.type) { %>
     <% if (page.type === 'menu') { %>

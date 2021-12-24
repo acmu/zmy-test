@@ -1,25 +1,13 @@
 site_description: Vue.js - The Progressive JavaScript Framework
 google_analytics: UA-46852172-3
 root_domain: cn.vuejs.org
-vue_version: 2.5.16
+vue_version: 2.6.14
 special_sponsors:
   - url: 'https://www.dcloud.io/hbuilderx.html?hmsr=vue-en&hmpl=&hmcu=&hmkw=&hmci='
     img: hbuilder.png
     name: HBuilder
     description: An IDE for Vue
-platinum_sponsors_china:
-  - name: dcloud
-    url: http://www.dcloud.io/?hmsr=vuejsorg&hmpl=&hmcu=&hmkw=&hmci=
-    img: dcloud1.png
-    alt_img: dcloud2.png
-  - name: authing
-    url: https://www.authing.cn/welcome?utm_source=Vuejs&utm_medium=CPT&utm_campaign=CN&utm_term=banner-CN
-    alt_url: https://www.authing.cn/welcome?utm_source=Vuejs&utm_medium=CPT&utm_campaign=CN&utm_term=page-CN
-    img: authing.svg
-    height: 58
-  - name: qingfuwu
-    url: https://qingfuwu.cn?utm_campaign=TR_eSJH7nqW&utm_content=&utm_medium=Web&utm_source=CH_53OxwryD&utm_term=
-    img: qingfuwu-v2.svg
+platinum_sponsors_china: []
 video_sponsors_china:
   - url: http://cloud.youku.com/index.php?source=vuejs
     img: youku.png
