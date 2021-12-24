@@ -12,3 +12,5 @@ $ npm start # 开发服务器地址为 http://localhost:4000
 ## 部署
 
 该站点通过 [Netlify](https://www.netlify.com/) 对 `master` 分支进行自动部署。
+
+test
