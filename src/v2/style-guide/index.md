@@ -1269,9 +1269,6 @@ props: {
 }
 ```
 
-{% codeblock lang:html %}
-<WelcomeMessage greetingText="hi"/>
-{% endcodeblock %}
 
 {% raw %}</div>{% endraw %}
 
@@ -1285,9 +1282,7 @@ props: {
 }
 ```
 
-{% codeblock lang:html %}
-<WelcomeMessage greeting-text="hi"/>
-{% endcodeblock %}
+
 
 {% raw %}</div>{% endraw %}
 

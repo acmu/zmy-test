@@ -30,9 +30,7 @@ Vue.component('button-counter', {
 </div>
 ```
 
-{% codeblock lang:js %}
-new Vue({ el: '#components-demo' })
-{% endcodeblock %}
+
 
 {% raw %}
 <div id="components-demo" class="demo">

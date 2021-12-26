@@ -211,10 +211,6 @@ router.alias({
 
 如果你需要进行多次 alias 操作，你也可以使用一个数组语法去实现：
 
-{% codeblock lang:js %}
-alias: ['/manage', '/administer', '/administrate']
-{% endcodeblock %}
-
 {% raw %}
 <div class="upgrade-path">
   <h4>升级路径</h4>
